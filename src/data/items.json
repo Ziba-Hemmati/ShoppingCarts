@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Clock",
+    "price": 50.99,
+    "imgUrl": "/images/clock.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Candle",
+    "price": 10.4,
+    "imgUrl": "/images/candle.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Candy",
+    "price": 0.89,
+    "imgUrl": "/images/candy.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vase",
+    "price": 20,
+    "imgUrl": "/images/headphone.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mug",
+    "price": 10.25,
+    "imgUrl": "/images/mug.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Flash",
+    "price": 23.46,
+    "imgUrl": "/images/flash.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lighter",
+    "price": 2.2,
+    "imgUrl": "/images/lighter.jpg"
+  }
+]
