@@ -1,4 +1,4 @@
-# [Demo](https://shopping-carts-jet.vercel.app/store)
+# [Demo](https://shopping-carts-jet.vercel.app/)
 
 # React + TypeScript + Vite
 
